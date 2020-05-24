@@ -1,0 +1,14 @@
+/*
+Theme Name:     Amanda Patricia
+Description:    
+Author:         adminpro
+Template:       Divi
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+/* ocultar titulo de la pagina */
+.main_title {
+    margin-bottom: 20px;
+    display: none;
+}
